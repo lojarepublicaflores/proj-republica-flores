@@ -6,7 +6,6 @@ public class arquivo1 {
 		
 		
 		//eclipse 1
-		//eclipse3
 		//chrome 2
 		
 		
