@@ -4,9 +4,7 @@ public class arquivo1 {
 
 	public arquivo1() {
 		
-		
-		//eclipse 1
-		//chrome 2
+	//chrome1
 		
 		
 	}
