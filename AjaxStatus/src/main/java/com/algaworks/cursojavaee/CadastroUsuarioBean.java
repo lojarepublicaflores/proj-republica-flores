@@ -1,5 +1,8 @@
 package com.algaworks.cursojavaee;
 
+//alterado 1
+
+
 import java.io.Serializable;
 
 import javax.faces.application.FacesMessage;
